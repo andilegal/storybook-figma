@@ -2,7 +2,7 @@
   "name": "testestory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://andilegal.github.io/storybook-figma",
+  "homepage": "http://andilegal.github.io",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -33,6 +33,7 @@
     "@storybook/react": "^7.0.18",
     "@storybook/testing-library": "^0.0.14-next.2",
     "eslint-plugin-storybook": "^0.6.12",
+    "gh-pages": "^5.0.0",
     "storybook": "^7.0.18",
     "storybook-addon-designs": "^7.0.0-beta.2"
   }
