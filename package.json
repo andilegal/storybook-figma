@@ -9,9 +9,9 @@
     "start": "next start",
     "lint": "next lint",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build",
-    "deploy": "gh-pages -d storybook",
-    "predeploy": "npm run storybook"
+    "predeploy": "npm run build-storybook",
+    "deploy-storybook": "gh-pages -d storybook-static",
+    "build-storybook": "build-storybook"
   },
   "dependencies": {
     "@types/node": "20.2.5",
