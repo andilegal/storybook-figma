@@ -2,7 +2,7 @@
   "name": "testestory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://andilegal.github.io",
+  "homepage": "https://andilegal.github.io/storybook-figma/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
