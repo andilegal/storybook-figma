@@ -2,13 +2,16 @@
   "name": "testestory",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://andilegal.github.io/storybook-figma",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
   },
   "dependencies": {
     "@types/node": "20.2.5",
