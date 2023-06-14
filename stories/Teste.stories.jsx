@@ -14,10 +14,10 @@ export default meta;
 export const mystory = ()=> <button>anders</button>
 
 
-  mystory.parameters = {
-    design: {
-      type: 'figspec',
-      url: "https://www.figma.com/file/rugFzpoJjnRlKHeeA9uQGS/Auditoria?type=design&node-id=37-1521&t=IdLkJZQma3bWeAry-4",
-      accessToken: 'figd_sHs6Ap894w4C-OAFls7tuq0fMMROyue-8zQJ8hRE'
-    },
-  }
+mystory.parameters = {
+  design: {
+    type: 'figspec',
+    url: "https://www.figma.com/file/rugFzpoJjnRlKHeeA9uQGS/Auditoria?type=design&node-id=85-2807&t=F5PPWcfPqJeqx8f8-4",
+    accessToken: 'figd_sHs6Ap894w4C-OAFls7tuq0fMMROyue-8zQJ8hRE'
+  },
+}
