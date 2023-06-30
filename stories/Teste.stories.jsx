@@ -14,11 +14,12 @@ export const mystory = () => <button>anders</button>
 export const mystory2 = ()=> <button>anders</button>
 export const mystory3 = ()=> <button>anders</button>
 export const mystory4 = ()=> <button>anders</button>
+export const mystory5 = ()=> <button>anders</button>
 
 mystory.parameters = {
   design: {
-    type: 'figspec',
-    url: "https://www.figma.com/file/rugFzpoJjnRlKHeeA9uQGS/Auditoria?type=design&node-id=85-2807&t=F5PPWcfPqJeqx8f8-4",
+    type: 'figma',
+    url: "https://www.figma.com/file/EMH8xJPwcYWJYP8DBYePpR/Desktop%3A-Votação?type=design&node-id=1108%3A74&mode=dev",
     accessToken: 'figd_sHs6Ap894w4C-OAFls7tuq0fMMROyue-8zQJ8hRE'
   },
 }
@@ -26,7 +27,7 @@ mystory.parameters = {
 mystory2.parameters = {
   design: {
     type: 'figma',
-    url: "https://www.figma.com/proto/rugFzpoJjnRlKHeeA9uQGS/Auditoria?page-id=101%3A3013&type=design&node-id=102-3179&scaling=min-zoom&starting-point-node-id=102%3A3179",
+    url: "https://www.figma.com/proto/EMH8xJPwcYWJYP8DBYePpR/Desktop%3A-Votação?page-id=1108%3A74&type=design&node-id=1563-4824&viewport=695%2C271%2C0.08&scaling=scale-down&starting-point-node-id=1563%3A4824&show-proto-sidebar=1&mode=design",
     accessToken: 'figd_sHs6Ap894w4C-OAFls7tuq0fMMROyue-8zQJ8hRE'
   },
 }
@@ -34,7 +35,7 @@ mystory2.parameters = {
 mystory3.parameters = {
   design: {
     type: 'figma',
-    url: "https://www.figma.com/file/rugFzpoJjnRlKHeeA9uQGS/Auditoria?type=design&node-id=17-2&t=truWvqsajkrVkUVW-0",
+    url: "https://www.figma.com/file/gfIZ9Z5DhYDyjxds2Rl77D/Specific-Componentes%3A-Votação-|-JARVICS?type=design&node-id=2%3A1506&mode=dev",
     accessToken: 'figd_sHs6Ap894w4C-OAFls7tuq0fMMROyue-8zQJ8hRE'
   },
 }
@@ -42,7 +43,15 @@ mystory3.parameters = {
 mystory4.parameters = {
   design: {
     type: 'figma',
-    url: "https://www.figma.com/file/rugFzpoJjnRlKHeeA9uQGS/Auditoria?type=design&node-id=35-1518&t=truWvqsajkrVkUVW-0",
+    url: "https://www.figma.com/file/EMH8xJPwcYWJYP8DBYePpR/Desktop%3A-Votação?type=design&node-id=1847-12867&mode=dev",
+    accessToken: 'figd_sHs6Ap894w4C-OAFls7tuq0fMMROyue-8zQJ8hRE'
+  },
+}
+
+mystory5.parameters = {
+  design: {
+    type: 'figma',
+    url: "https://www.figma.com/file/EMH8xJPwcYWJYP8DBYePpR/Desktop%3A-Votação?type=design&node-id=1847-12867&mode=dev",
     accessToken: 'figd_sHs6Ap894w4C-OAFls7tuq0fMMROyue-8zQJ8hRE'
   },
 }
